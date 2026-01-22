@@ -14,10 +14,16 @@ align-items: center;
 gap: 10px;
 }
 
-.az {font-size: 42px;}
+.head i{
+  font-size: 38px;
+}
+
+
+
+.az {font-size: 36px;}
 
 .social{
-  font-size: 36px;
+  font-size: 28px;
   display: flex;
   gap: 12px;
 }
@@ -79,5 +85,8 @@ footer { width: 100%;
       font-size: 22px;
       gap: 8px;
  }
+.head i{
+ font-size: 24px;
+}
           
            }
