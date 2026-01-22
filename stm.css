@@ -12,7 +12,8 @@ header { width: 100%;
 
 .head{
  display: flex;
- gap: 10px;        
+ gap: 10px;  
+font-size: 10px;
 }
 
 .az {font-size: 36px;}
