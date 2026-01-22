@@ -8,19 +8,11 @@ header { width: 100%;
          padding: 0 20px;
          }
 
-.header-inner{
- max-width: 1200px;
-margin: 0 auto;
-padding: 0 20px;
-display: flex;
-justify-content: space-between;
-align-items: center;
-}
+
 
 .head{
  display: flex;
- align-items: center;
- gap: 8px;        
+ gap: 10px;        
 }
 
 .az {font-size: 36px;}
