@@ -6,13 +6,20 @@ header { width: 100%;
          justify-content: space-between;
          align-items: center;
 
-         padding: 0 15px
+         padding: 0 20px;
          }
+.head{
+ display: flex;
+ align-items: center;
+ gap: 10px;        
+}
 
-.az {font-size: 50px;}
+.az {font-size: 36px;}
 
 .social{
-  font-size: 40px;
+  font-size: 28px;
+  display: flex;
+  gap: 14px; 
 }
 
 .main{
