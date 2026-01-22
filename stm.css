@@ -5,15 +5,21 @@ header { width: 100%;
          display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 0 15px;
-        
+        padding: 0 30px;
+        box-sizing: border-box;
          }
+.head{
+ display: flex;
+align-items: center;
+gap: 10px;
+}
 
-.az {font-size: 50px;}
+.az {font-size: 42px;}
 
 .social{
-  font-size: 40px;
-   padding-left: 10px;
+  font-size: 36px;
+  display: flex;
+  gap: 12px;
 }
 
 .main{
@@ -62,14 +68,16 @@ footer { width: 100%;
  .za {font-size: 50px;}
 
  @media screen and (max-width: 425px) {
+  header{
+         height: 70px;
+         padding: 0 12px;
+  }
   .az{
-         font-size: 28px;
+      font-size: 26px;
   }
-  .social{
-      font-size: 24;
-  }
- header{
-      height: 70px;
+ .social{
+      font-size: 22px;
+      gap: 8px;
  }
           
            }
