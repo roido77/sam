@@ -20,8 +20,11 @@ padding: 0;
 .head{
  display: flex;
  gap: 10px;  
-font-size: 5px;
 align-items: center;
+}
+
+.head i{
+ font-size: 26px;
 }
 
 .az {font-size: 28px;}
