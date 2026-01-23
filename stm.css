@@ -22,6 +22,7 @@ overflow-x: hidden;
  display: flex;
  gap: 10px;  
 font-size: 10px;
+align-items: center;
 }
 
 .az {font-size: 36px;}
