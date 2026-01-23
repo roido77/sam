@@ -5,6 +5,10 @@ header { width: 100%;
          position: relative;
          }
 
+.head i{
+ font-size: 30px;
+}
+
 .az {font-size: 30px;}
 
 .social{
